@@ -40,4 +40,6 @@ The difference between the PCB_USB_C and the PCB_USB_C_2.0 is that the PCB_USB_C
   
 Each one of the components have different footprint models. The difference in the models is in the cutout slots for the usb cable plug to insert on the PCB, i played with the thicknes of the slot and the terminations. I can say that in the PCB_MICRO_USB_B the one that work for me the best is the one with the tighter dimensions with the round end to give the connector a little bit more space to insert further inside. For the PCB_USB_C/2.0 i can't say which one is the best because i couldn't test it yet.
   
-  
+**USB micro B footprints:**
+
+<img  src="https://github.com/Pinuct/Eagle_PCB_USB_connectors/blob/master/micro%20USB%20type%20b/images/footprints.png?raw=true">
